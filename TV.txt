@@ -903,11 +903,11 @@ http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 http://live.bygd.cn/byzh/sd/live.m3u8
 #EXTINF:-1 group-title="甘肃台" tvg-id="白银公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0202/small16cda4826ac19685a6cd9e6d004273ae1517563314.jpg",白银公共频道
 http://live.bygd.cn/bygg/sd/live.m3u8
-#EXTINF:-1 group-title="新疆台" tvg-id="哈密电视台1套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalla39fa085c140dd0cda01ae0623effda51521440468.jpg",哈密电视台1套
+#EXTINF:-1 group-title="新J台" tvg-id="哈密电视台1套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalla39fa085c140dd0cda01ae0623effda51521440468.jpg",哈密电视台1套
 http://stream.hmgbtv.com/hm1/hd/live.m3u8
-#EXTINF:-1 group-title="新疆台" tvg-id="哈密电视台2套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small53bff747a6bdf0101ab35f9b7ff7b62d1521440574.jpg",哈密电视台2套
+#EXTINF:-1 group-title="新J台" tvg-id="哈密电视台2套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small53bff747a6bdf0101ab35f9b7ff7b62d1521440574.jpg",哈密电视台2套
 http://stream.hmgbtv.com/hm2/hd/live.m3u8
-#EXTINF:-1 group-title="新疆台" tvg-id="哈密电视台3套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small73d2ebff4a113299ffc3b5d69c92cef71521440638.jpg",哈密电视台3套
+#EXTINF:-1 group-title="新J台" tvg-id="哈密电视台3套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small73d2ebff4a113299ffc3b5d69c92cef71521440638.jpg",哈密电视台3套
 http://stream.hmgbtv.com/hm3/hd/live.m3u8
 #EXTINF:-1 group-title="内蒙古台" tvg-id="鄂尔多斯四套蒙语频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalldd41713ec7696efa88458b0d54aa867f1521469682.jpg",鄂尔多斯四套蒙语频道
 http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
@@ -959,7 +959,7 @@ http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=cd7616d61706332174
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="青海台" tvg-id="西宁生活服务频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/31c78e268aa487753cbbd410e7a5c4a5.jpg",西宁生活服务频道
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-#EXTINF:-1 group-title="西藏台" tvg-id="西藏影视文化频道" tvg-logo="http://tv.haoqu99.com/d/file/2023/0415/small02fd18d73ba4f529f5723c1dffee6e421681538391.jpg",西藏影视文化频道
+#EXTINF:-1 group-title="西Z台" tvg-id="西藏影视文化频道" tvg-logo="http://tv.haoqu99.com/d/file/2023/0415/small02fd18d73ba4f529f5723c1dffee6e421681538391.jpg",西藏影视文化频道
 https://tv.vtibet.cn/live/gHxCmvaVjK68XL.m3u8?secret=041fec5f4908b96223f51a2308c20bc1&time=65b49c27
 #EXTINF:-1 group-title="国际" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN纪录
 https://livedoc.cgtn.com/500d/prog_index.m3u8
