@@ -104,11 +104,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/7b0cd77491-0-0-ea425260238d39f6b7e7e9043acac195/index.m3u8
 四川卫视,https://iptv.luas.edu.cn/liverespath/2fce0cfae9f8e16a8e756e730fa469a91a134631/3e794d9385-0-0-fd7ef968111902c7b960bf4b698777d2/index.m3u8
-新J卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-西Z卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
-西Z卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=7d76800ce83c5224a74b53362f2be90d&time=65b33980
-西Z卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://stream1.hnntv.cn/lywsgq/playlist.m3u8?_upt=09db581e1706248193
