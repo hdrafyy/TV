@@ -108,7 +108,6 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://stream1.hnntv.cn/lywsgq/playlist.m3u8?_upt=09db581e1706248193
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 央视频道,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
